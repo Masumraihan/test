@@ -1,5 +1,0 @@
-{{#user}}
-Name: Ritesh
-Skills: HTML, CSS, JS, React.js, Express.JS, MongoDB, Tailwind CSS, Bootstrap, Material UI, Firebase, JSON WEB TOKEN, Tenstack Query, 
-Email: mdmasumraihan1@gmail.com
-{{/user}}
